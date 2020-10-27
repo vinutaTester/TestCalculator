@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="162ab28d-0b97-43e5-a953-742c7e8ddcf1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1j7UwxJ9desG8bDJGqSa4eFSv0x" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../git local/RestAssured_prg" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="162ab28d-0b97-43e5-a953-742c7e8ddcf1" name="Default Changelist" comment="" />
+      <created>1603154865342</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603154865342</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="680" y="230" key="#Inspections" timestamp="1603174358510">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="680" y="230" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1603174358510" />
+    <state x="765" y="239" key="#com.intellij.ide.util.MemberChooser" timestamp="1603173816235">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="239" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603173816235" />
+    <state x="812" y="410" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1603174928329">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="812" y="410" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1603174928329" />
+    <state x="215" y="217" width="1670" height="642" key="DiffContextDialog" timestamp="1603155871888">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="215" y="217" width="1670" height="642" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603155871888" />
+    <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1603180265445">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603180265445" />
+    <state width="1810" height="206" key="GridCell.Tab.0.bottom" timestamp="1603182491744">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1810" height="206" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603182491744" />
+    <state width="1810" height="206" key="GridCell.Tab.0.center" timestamp="1603182491744">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1810" height="206" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603182491744" />
+    <state width="1810" height="206" key="GridCell.Tab.0.left" timestamp="1603182491744">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1810" height="206" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603182491744" />
+    <state width="1810" height="206" key="GridCell.Tab.0.right" timestamp="1603182491744">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1810" height="206" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603182491744" />
+    <state x="873" y="475" key="ReplaceDuplicatesPrompt" timestamp="1603155500476">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="873" y="475" key="ReplaceDuplicatesPrompt/0.0.1920.1040@0.0.1920.1040" timestamp="1603155500476" />
+    <state x="553" y="183" key="SettingsEditor" timestamp="1603174327486">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="553" y="183" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603174327486" />
+    <state x="215" y="217" width="1670" height="642" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1603157254342">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="215" y="217" width="1670" height="642" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603157254342" />
+    <state x="780" y="300" width="540" height="482" key="extract.method.dialog" timestamp="1603155491274">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="780" y="300" width="540" height="482" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603155491274" />
+  </component>
+</project>
