@@ -23,6 +23,9 @@ public class Calculator_Test {
 
     @Test
     public void tc_mul(){
-
+        obj1= new Calculator_class(10,20);
+        float mul= obj1.mul();
+        System.out.println("mul = "+ mul);
+        Assert.assertEquals(mul,200);
     }
 }

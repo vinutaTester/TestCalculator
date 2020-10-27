@@ -18,7 +18,8 @@ public class Calculator_class {
         mul(a,b);*/
     }
 
-    private void mul(int a, int b) {
+   public float mul() {
+        return(a*b);
     }
 
     private void sub(int a, int b) {
