@@ -8,11 +8,14 @@ public class Calculator_class {
     int sub;
     int mul;
 
-    public void Calculator_class(int a, int b){
+    public  Calculator_class(int a, int b){
 
-        sum(a,b);
+        this.a=a;
+        this.b=b;
+
+        /*sum(a,b);
         sub(a,b);
-        mul(a,b);
+        mul(a,b);*/
     }
 
     private void mul(int a, int b) {
@@ -21,6 +24,8 @@ public class Calculator_class {
     private void sub(int a, int b) {
     }
 
-    private void sum(int a, int b) {
+    public int add() {
+
+        return(a+b);
     }
 }
